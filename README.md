@@ -57,5 +57,3 @@ Follow the local host link displayed in the terminal. The "Message sent!" messag
 
 ## Limitations
 - The script is currently configured for Gmail; if you are using a different email provider, make the necessary changes in the code accordingly.
-
-```
